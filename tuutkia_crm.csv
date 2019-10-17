@@ -1,0 +1,5 @@
+﻿id,name,lastContactedTime,email,phone_phones,home_phones,mobile_phones,work_phones,fax_phones,other_phones,address_1,address_2,address_3,city,state,postal_code,country,tags
+15-contacts,"Jane Doe",,j@greenbriar.com,,"+1 6570987234","+1 3245687907","+1 5678743546",,,"54 George street",,,"Ridge Springs",VA,25678,US,
+3-contacts,"Joe Malcoun","2019-08-28 14:29:27",ceo@nutshell.com,,,,,,,"212 South Fifth Ave",,,"Ann Arbor",MI,48103,US,
+7-contacts,"Morgan Ramirez",,mramirez@nerdy.com,,,"+1 6780431874","+1 3338765438","+1 5679876987",,"567 one st",,,Birmingham,AL,45678,US,
+11-contacts,"Roman Burki",,burki@bvb.com,,,"+1 0983457690","+1 5468756098",,,"546 fourteen street Nw",,,Dallas,TX,54678,US,
